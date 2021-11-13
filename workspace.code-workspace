@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "WifiLED",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
